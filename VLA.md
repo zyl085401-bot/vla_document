@@ -1,0 +1,2 @@
+![](images/VLA-diagram.png)
+
